@@ -1,4 +1,4 @@
-## Intro to C++ Lab 02
+## Intro to C++ I Lab 02
 
 Simple Math
 
